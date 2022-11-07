@@ -1,3 +1,3 @@
-![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamalchafik&show_icons=true&theme=radical)
+![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamalchafik&theme=vue-dark&show_icons=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamalchafik&theme=radical&border_radius=3.6)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kamalchafik&theme=vue-dark)](https://git.io/streak-stats)
