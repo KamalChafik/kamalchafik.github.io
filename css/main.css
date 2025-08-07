@@ -5284,3 +5284,11 @@ a.credit {
 /* Common Style */
 .section {
   padding-bottom: 0; }
+
+.portfolio-item img {
+  width: 100%;
+  height: 275px; 
+  object-fit: cover;
+  display: block;
+}
+
